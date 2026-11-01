@@ -1,0 +1,1 @@
+{"formato":"japro-sig-1","alg":"ECDSA-P256-SHA256","kid":"f52aa7aa049bf1bb","sha256":"18017f70f1ccf0e755758037d06cfc50e9265212c569f43536af344d9ae7ceac","bytes":2807140,"versao":"2026.11.01-1802","assinatura":"Ex2zkDsmneXjCPeS9H5JztFWHf0gGj62pnktkdMguVaMkvFiz7ekmSYh9T+Zwfad6PYaQEymAOUeIk4ynwjOIQ=="}
